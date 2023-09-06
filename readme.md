@@ -26,5 +26,9 @@
 <img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white">
   
 ## Stats
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)">
+
+
+[![](https://raw.githubusercontent.com/Tharisuudev/TharisuuProfile/master/profile-summary-card-output/darcula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Tharisuudev/TharisuuProfile/master/profile-summary-card-output/darcula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Tharisuudev/TharisuuProfile/master/profile-summary-card-output/darcula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Tharisuudev/TharisuuProfile/master/profile-summary-card-output/darcula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Tharisuudev/TharisuuProfile/master/profile-summary-card-output/darcula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
