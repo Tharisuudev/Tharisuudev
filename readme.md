@@ -27,4 +27,4 @@
   
 ## Stats
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharisuudev&theme=blue-green">
+  <img src="[https://github-readme-stats.vercel.app/api?username=Tharisuudev&theme=blue-green](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
