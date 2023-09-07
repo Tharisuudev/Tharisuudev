@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thalys Souza</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/tharisuudev/tharisuudev/main/bannertharisuu.png"> </div>
 <h3 align="center">A passionate frontend developer from Brazil!</h3>
-<div align="center"> <img src="https://raw.githubusercontent.com/tharisuudev/tharisuudev/main/bannertharisuu.png%22%3E" </div>
-
 <img align="center" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharisuudev&label=Profile%20views&color=0e75b6&style=flat" alt="tharisuudev" /> </p>
