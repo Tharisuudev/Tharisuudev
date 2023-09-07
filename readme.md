@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thalys Souza</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner2.png"> </div>
 <h3 align="center">A passionate frontend developer from Brazil!</h3>
 
 <img align="center" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
